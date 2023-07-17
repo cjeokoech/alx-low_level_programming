@@ -1,8 +1,13 @@
-#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes here */
-/* betty sytle doc for function main goes here */
+#include <stdio.h>
+/**
+* main - Entry point
+*
+* Description: The program description
+*
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
 int n;

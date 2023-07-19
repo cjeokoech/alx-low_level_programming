@@ -7,7 +7,7 @@ int main(void)
 {
 	int i;
 
-	unsingned long int j, k, next, sum;
+	unsigned long int j, k, next, sum;
 
 	j = 1;
 	k = 2;

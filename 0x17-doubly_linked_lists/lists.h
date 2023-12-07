@@ -1,6 +1,7 @@
 #ifndef LIST_HEADER
 #define LIST_HEADER
 #include <stdio.h>
+#include <stdlib.h>
 
 /**
  * struct dlistint_s - doubly linked list
